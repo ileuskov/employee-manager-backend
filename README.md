@@ -6,7 +6,7 @@ Spring Boot backend that connects api calls with MySQL Database
 2. manage MySQL entries with HTTP requests (GET, POST, PUT, DELETE)
 
 # Technologies used
-1. Spring Boot
+1. Java 17 + Spring Boot
 2. MySQL Database
 3. Postman to test API calls
 
